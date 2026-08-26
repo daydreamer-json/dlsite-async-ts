@@ -19,8 +19,13 @@ TypeScript with strict typing.
 
 ## Installation
 
+This package is distributed via GitHub — it is not published to the npm
+registry. Install it from a release tag:
+
 ```console
-$ npm install dlsite-async-ts
+$ npm install daydreamer-json/dlsite-async-ts#v0.1.0
+# or
+$ bun add daydreamer-json/dlsite-async-ts#v0.1.0
 ```
 
 Image processing features require [sharp]:
