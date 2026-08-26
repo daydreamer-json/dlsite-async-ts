@@ -4,6 +4,10 @@
   "description": "Async DLsite API client for TypeScript",
   "type": "module",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daydreamer-json/dlsite-async-ts.git"
+  },
   "engines": {
     "node": ">=20"
   },
